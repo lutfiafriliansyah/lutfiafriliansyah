@@ -10,8 +10,8 @@ Any suggestion will be appreciated! (I'm totally new to this platform hihi) 🤸
 
 <p align="left">
 <a href="https://github.com/lutfiafriliansyah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lutfiafriliansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lutfiafriliansyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
