@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is **Lutfi Afriliansyah**
+I am a *Teknik Komputer* student at Institut Teknologi Harapan Bangsa, year 2021 \
+I'm currently working on ... nothing but college(?) \
+
+You can reach me via [Instagram](https://www.dicoding.com/) and [LinkedIn](https://www.linkedin.com/in/lutfi-afriliansyah/). \
+
 <!--
 **lutfiafriliansyah/lutfiafriliansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
